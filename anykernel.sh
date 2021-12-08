@@ -10,8 +10,9 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=lavender
-supported.versions=9 - 12
+device.name1=zerofltexx
+device.name2=zeroltexx
+supported.versions=11
 supported.patchlevels=
 '; } # end properties
 
