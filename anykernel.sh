@@ -4,14 +4,16 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Noob Test Kernel  - by @Noob
+kernel.string=Noob Test Kernel  - by @Noob thank to @osm0sis❤️
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=zerofltexx
-device.name2=zeroltexx
+device.name2=zeroltexx 
+device.name3=galaxy s6 
+device.name4=galaxy s6 edge
 supported.versions=11
 supported.patchlevels=
 '; } # end properties
